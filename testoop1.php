@@ -46,18 +46,4 @@ $book->getIsbn();
 $book->setIsbn('123');
 
 
-/*
-require("test.php");
-//include("test.php");
-$p="Ben ngoai ham";
-function change_pos()
-{
-    global $p;
-    $p='<br/>Ben Trong Ham';
-
-}
-change_pos();
-echo ("$p");
- * */
-
 ?>
